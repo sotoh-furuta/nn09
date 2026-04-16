@@ -100,7 +100,7 @@ def NN09_output(TEMP_DIR,now,cur,conn,NN09):
         logger.info('----------NN09_STRING1----------')
         logger.info(NN09[0])
 
-    if len(NN09[1]) == 96:
+    if len(NN09[1]) == 90:
         if last_data[1:] != output3:
             cur.execute('INSERT INTO "IoT_schema".%s  VALUES (%s)'% (table_name,NN09[2]))
             conn.commit()   # Auto Commitではないので必ずCommitする
@@ -197,7 +197,7 @@ def NN3L_output(TEMP_DIR,now,cur,conn,NN3L):
         logger.info('----------NN3L_STRING----------')
         logger.info(NN3L[0]) 
 
-        shutil.copyfile(TEMP_DIR+'nn3l.prn','./error/nn3l_'+ now.strftime('%Y%m%d_%H%M%S') +'.prn')
+        # shutil.copyfile(TEMP_DIR+'nn3l.prn','./error/nn3l_'+ now.strftime('%Y%m%d_%H%M%S') +'.prn')
 
     logger.debug(' NN3L output END')
 
