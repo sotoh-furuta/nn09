@@ -91,17 +91,20 @@ def NN09_output(TEMP_DIR,now,cur,conn,NN09):
 
     table_name = "nikka_tansuu_1min"
     cur.execute('SELECT * FROM "IoT_schema".%s ORDER BY timestamp DESC LIMIT 1'% table_name)
-    last_data = list(cur.fetchone()) 
+    row = cur.fetchone()
     output3 = [int(x) for x in NN09[1][1:]]
-    if last_data[-8] > output3[-8]: # 確認
-        logger.info("NN 09 生産m 減少") 
-        logger.info('----------NN09_output----------')
-        logger.info(NN09[1])
-        logger.info('----------NN09_STRING1----------')
-        logger.info(NN09[0])
+
+    if row is not None:
+        last_data = list(row)
+        if last_data[-8] > output3[-8]: # 確認
+            logger.info("NN 09 生産m 減少")
+            logger.info('----------NN09_output----------')
+            logger.info(NN09[1])
+            logger.info('----------NN09_STRING1----------')
+            logger.info(NN09[0])
 
     if len(NN09[1]) == 90:
-        if last_data[1:] != output3:
+        if row is None or last_data[1:] != output3:
             cur.execute('INSERT INTO "IoT_schema".%s  VALUES (%s)'% (table_name,NN09[2]))
             conn.commit()   # Auto Commitではないので必ずCommitする
             logger.info('NN09 Data added, recorded in DB.')
