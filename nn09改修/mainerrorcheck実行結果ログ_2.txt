@@ -1,0 +1,45 @@
+
+C:\python\ETOS_override>cd C:\python\ETOS_override
+
+C:\python\ETOS_override>python main.py
+プロセスID:4888  C:\Program Files (x86)\ETOSJX\WNDCSPRN.exe is ETOS
+コマンドライン:['C:\\Program Files (x86)\\ETOSJX\\WNDCSPRN.EXE', 'C:\\ProgramData\\NEC\\ETOSJX\\ETOSJX.PGD', 'ETOS']
+プロセスID:7584  C:\Program Files (x86)\ETOSJX\WNDCS.exe is ETOS
+コマンドライン:['C:\\Program Files (x86)\\ETOSJX\\WNDCS.EXE', 'C:\\ProgramData\\NEC\\ETOSJX\\ETOSJX.PG', 'ETOSJX          ', 'NOERRMSG']
+2026-04-17 11:01:57,075 __main__:36 <module> [DEBUG]: SET temp folder C:\python\ETOS_override\temp\
+2026-04-17 11:01:57,341 ETOS_OPEN:27 ETOS_OPEN [DEBUG]: ETOS open
+2026-04-17 11:02:00,856 ETOS_OPEN:52 ETOS_OPEN [DEBUG]: C:\python\ETOS_override\temp\aa09.prn output
+2026-04-17 11:02:02,997 ETOS_OPEN:71 ETOS_OPEN [DEBUG]: C:\python\ETOS_override\temp\cc09.prn output
+2026-04-17 11:02:05,173 ETOS_OPEN:91 ETOS_OPEN [DEBUG]: C:\python\ETOS_override\temp\nn09.prn output
+2026-04-17 11:02:07,329 ETOS_OPEN:111 ETOS_OPEN [DEBUG]: C:\python\ETOS_override\temp\ad291.prn output
+2026-04-17 11:02:16,146 ETOS_OPEN:131 ETOS_OPEN [DEBUG]: C:\python\ETOS_override\temp\aa3k.prn output
+2026-04-17 11:02:24,958 ETOS_OPEN:151 ETOS_OPEN [DEBUG]: C:\python\ETOS_override\temp\nn3l.prn output
+2026-04-17 11:02:26,213 ETOS_OPEN:160 ETOS_OPEN [DEBUG]: ETOS closed.
+2026-04-17 11:02:26,233 ETOS_CONV:63 AA09_CONV [DEBUG]: AA09 data convert finish.
+2026-04-17 11:02:26,243 ETOS_CONV:133 CC09_CONV [DEBUG]: CC09 data convert finish.
+2026-04-17 11:02:26,243 ETOS_CONV:233 NN09_CONV [DEBUG]: nn09 data convert finish.
+2026-04-17 11:02:26,243 ETOS_CONV:274 AD291_CONV [DEBUG]: ad291 data convert finish.
+2026-04-17 11:02:26,243 ETOS_CONV:175 AA3k_CONV [DEBUG]: AA3K data convert finish.
+2026-04-17 11:02:26,243 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 11:02:26,243 ETOS_CONV:333 NN3L_CONV [DEBUG]: nn3l data convert finish.
+WARNING:  繝・・繧ｿ繝吶・繧ｹ"IoT_database"縺ｧ辣ｧ蜷磯・ｺ上ヰ繝ｼ繧ｸ繝ｧ繝ｳ縺ｮ荳堺ｸ閾ｴ縺瑚ｵｷ縺阪※縺・∪縺・DETAIL:  繝・・繧ｿ繝吶・繧ｹ縺ｯ辣ｧ蜷磯・ｺ上ヰ繝ｼ繧ｸ繝ｧ繝ｳ2.31縺ｧ菴懈・縺輔ｌ縺ｦ縺・∪縺吶′縲√が繝壹Ξ繝ｼ繝・ぅ繝ｳ繧ｰ繧ｷ繧ｹ繝・Β縺ｯ繝舌・繧ｸ繝ｧ繝ｳ2.36繧呈署萓帙＠縺ｦ縺・∪縺吶・HINT:  縺薙・繝・・繧ｿ繝吶・繧ｹ蜀・〒繝・ヵ繧ｩ繝ｫ繝医・辣ｧ蜷磯・ｺ上ｒ 菴ｿ逕ｨ縺励※縺・ｋ蜈ｨ縺ｦ縺ｮ繧ｪ繝悶ず繧ｧ繧ｯ繝医ｒ蜀肴ｧ狗ｯ峨＠縺ｦ縲、LTER DATABASE "IoT_database" REFRESH COLLATION VERSION繧貞ｮ溯｡後☆繧九°縲∵ｭ｣縺励＞繝舌・繧ｸ繝ｧ繝ｳ縺ｮ繝ｩ繧､繝悶Λ繝ｪ繧堤畑縺・※PostgreSQL繧偵ン繝ｫ繝峨＠縺ｦ縺上□縺輔＞縲・2026-04-17 11:02:26,333 DB_trancefar:227 DB_trancefar [INFO]: DB Connection Open
+2026-04-17 11:02:26,333 DB_trancefar:20 AA09_output [DEBUG]: AA09 output START
+2026-04-17 11:02:26,387 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 11:02:26,387 DB_trancefar:48 AA09_output [DEBUG]: AA09 output END
+2026-04-17 11:02:26,392 DB_trancefar:55 CC09_output [DEBUG]: CC09 output START
+2026-04-17 11:02:26,402 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 11:02:26,402 DB_trancefar:83 CC09_output [DEBUG]: CC09 output END
+2026-04-17 11:02:26,402 DB_trancefar:90 NN09_output [DEBUG]: NN09 output START
+2026-04-17 11:02:26,422 DB_trancefar:108 NN09_output [WARNING]: NN09 比較対象(last_data[-8])がNULLのため、生産m減少チェ ックをスキップ。
+2026-04-17 11:02:26,433 DB_trancefar:114 NN09_output [INFO]: NN09 Data added, recorded in DB.
+2026-04-17 11:02:26,433 DB_trancefar:125 NN09_output [DEBUG]: NN09 output END
+2026-04-17 11:02:26,433 DB_trancefar:129 AD291_output [DEBUG]: AD291 output START
+2026-04-17 11:02:26,463 DB_trancefar:140 AD291_output [INFO]: AD291 Data added, recorded in DB.
+2026-04-17 11:02:26,463 DB_trancefar:151 AD291_output [DEBUG]: AD291 output END
+2026-04-17 11:02:26,463 DB_trancefar:156 AA3K_output [DEBUG]: AA3K output START
+2026-04-17 11:02:26,492 DB_trancefar:166 AA3K_output [INFO]: AA3K Data added, recorded in DB.
+2026-04-17 11:02:26,492 DB_trancefar:177 AA3K_output [DEBUG]: AA3K output END
+2026-04-17 11:02:26,492 DB_trancefar:182 NN3L_output [DEBUG]: NN3L output START
+2026-04-17 11:02:26,507 DB_trancefar:192 NN3L_output [INFO]: NN3L Data added, recorded in DB.
+2026-04-17 11:02:26,507 DB_trancefar:209 NN3L_output [DEBUG]:  NN3L output END
+2026-04-17 11:02:26,507 DB_trancefar:251 DB_trancefar [INFO]: DB Conection Closed

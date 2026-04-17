@@ -6488,3 +6488,13 @@ CC0090                        *****反数状況   *****             '26.04.17  05:00
 2026-04-17 10:52:58,065 DB_trancefar:223 DB_trancefar [INFO]: DB Connection Open 
 2026-04-17 10:52:58,125 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
 2026-04-17 10:52:58,136 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 11:02:26,243 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 11:02:26,333 DB_trancefar:227 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 11:02:26,387 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 11:02:26,402 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 11:02:26,422 DB_trancefar:108 NN09_output [WARNING]: NN09 比較対象(last_data[-8])がNULLのため、生産m減少チェックをスキップ。
+2026-04-17 11:02:26,433 DB_trancefar:114 NN09_output [INFO]: NN09 Data added, recorded in DB.
+2026-04-17 11:02:26,463 DB_trancefar:140 AD291_output [INFO]: AD291 Data added, recorded in DB.
+2026-04-17 11:02:26,492 DB_trancefar:166 AA3K_output [INFO]: AA3K Data added, recorded in DB.
+2026-04-17 11:02:26,507 DB_trancefar:192 NN3L_output [INFO]: NN3L Data added, recorded in DB.
+2026-04-17 11:02:26,507 DB_trancefar:251 DB_trancefar [INFO]: DB Conection Closed
