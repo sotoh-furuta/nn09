@@ -6376,3 +6376,111 @@ CC0090                        *****反数状況   *****             '26.04.17  05:00
 2026-04-17 08:20:44,685 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
 2026-04-17 08:20:44,715 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
 2026-04-17 08:20:44,725 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:38:44,617 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:38:44,728 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:38:44,803 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 09:38:44,808 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:42:24,271 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:42:24,356 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:42:24,386 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 09:42:24,396 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:43:37,129 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:43:37,254 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:43:37,289 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 09:43:37,299 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:45:37,078 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:45:37,143 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:45:37,243 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 09:45:37,263 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:47:37,036 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:47:37,111 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:47:37,151 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 09:47:37,175 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:49:36,950 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:49:37,000 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:49:37,030 DB_trancefar:39 AA09_output [INFO]: AA09 No data change, not recorded in DB.
+2026-04-17 09:49:37,041 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:51:37,234 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:51:37,304 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:51:37,343 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 09:51:37,414 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:53:37,870 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:53:37,935 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:53:37,981 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 09:53:38,000 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:55:36,925 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:55:37,000 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:55:37,035 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 09:55:37,050 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:57:37,036 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:57:37,163 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:57:37,191 DB_trancefar:39 AA09_output [INFO]: AA09 No data change, not recorded in DB.
+2026-04-17 09:57:37,211 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 09:59:36,936 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 09:59:37,020 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 09:59:37,055 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 09:59:37,075 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:01:36,947 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:01:36,997 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:01:37,028 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:01:37,047 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:03:36,940 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:03:36,995 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:03:37,036 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:03:37,045 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:05:36,842 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:05:36,892 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:05:36,922 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:05:36,943 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:07:37,027 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:07:37,082 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:07:37,117 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:07:37,127 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:09:36,987 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:09:37,046 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:09:37,087 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:09:37,097 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:11:37,046 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:11:37,091 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:11:37,132 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:11:37,144 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:13:36,856 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:13:36,901 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:13:36,941 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:13:36,961 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:15:36,900 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:15:36,955 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:15:36,976 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:15:36,985 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:17:36,924 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:17:36,994 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:17:37,019 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:17:37,034 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:19:37,141 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:19:37,201 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:19:37,232 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:19:37,255 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:21:36,959 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:21:37,017 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:21:37,059 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:21:37,067 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:23:36,976 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:23:37,036 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:23:37,063 DB_trancefar:39 AA09_output [INFO]: AA09 No data change, not recorded in DB.
+2026-04-17 10:23:37,082 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:25:36,906 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:25:36,951 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:25:36,996 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:25:37,031 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:27:36,925 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:27:37,015 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:27:37,046 DB_trancefar:39 AA09_output [INFO]: AA09 No data change, not recorded in DB.
+2026-04-17 10:27:37,056 DB_trancefar:74 CC09_output [INFO]: CC09 No data change, not recorded in DB.
+2026-04-17 10:29:36,886 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:29:36,931 DB_trancefar:220 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:29:36,966 DB_trancefar:39 AA09_output [INFO]: AA09 No data change, not recorded in DB.
+2026-04-17 10:29:36,971 DB_trancefar:74 CC09_output [INFO]: CC09 No data change, not recorded in DB.
+2026-04-17 10:34:47,100 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:34:47,210 DB_trancefar:223 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:34:47,250 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:34:47,260 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
