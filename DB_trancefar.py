@@ -93,18 +93,22 @@ def NN09_output(TEMP_DIR,now,cur,conn,NN09):
     cur.execute('SELECT * FROM "IoT_schema".%s ORDER BY timestamp DESC LIMIT 1'% table_name)
     row = cur.fetchone()
     output3 = [int(x) for x in NN09[1][1:]]
+    last_data = None
 
     if row is not None:
         last_data = list(row)
-        if last_data[-8] > output3[-8]: # 確認
+        # 既存データにNULLが含まれる場合は比較をスキップして継続する
+        if last_data[-8] is not None and last_data[-8] > output3[-8]: # 確認
             logger.info("NN 09 生産m 減少")
             logger.info('----------NN09_output----------')
             logger.info(NN09[1])
             logger.info('----------NN09_STRING1----------')
             logger.info(NN09[0])
+        elif last_data[-8] is None:
+            logger.warning('NN09 比較対象(last_data[-8])がNULLのため、生産m減少チェックをスキップ。')
 
     if len(NN09[1]) == 90:
-        if row is None or last_data[1:] != output3:
+        if row is None or last_data is None or last_data[1:] != output3:
             cur.execute('INSERT INTO "IoT_schema".%s  VALUES (%s)'% (table_name,NN09[2]))
             conn.commit()   # Auto Commitではないので必ずCommitする
             logger.info('NN09 Data added, recorded in DB.')
