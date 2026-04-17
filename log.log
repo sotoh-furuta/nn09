@@ -6484,3 +6484,7 @@ CC0090                        *****反数状況   *****             '26.04.17  05:00
 2026-04-17 10:34:47,210 DB_trancefar:223 DB_trancefar [INFO]: DB Connection Open 
 2026-04-17 10:34:47,250 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
 2026-04-17 10:34:47,260 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
+2026-04-17 10:52:57,946 ETOS_CONV:288 NN3L_CONV [CRITICAL]: NN3L:読み込みファイル名を確認:C:\python\ETOS_override\temp\nn3l.prn
+2026-04-17 10:52:58,065 DB_trancefar:223 DB_trancefar [INFO]: DB Connection Open 
+2026-04-17 10:52:58,125 DB_trancefar:37 AA09_output [INFO]: AA09 Data added, recorded in DB.
+2026-04-17 10:52:58,136 DB_trancefar:72 CC09_output [INFO]: CC09 Data added, recorded in DB.
